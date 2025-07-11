@@ -2,6 +2,10 @@
 
 A modern, modular real-time face recognition system in Python, featuring detection, encoding, and identification using deep learning. This project is suitable for applications like real-time recognition, attendance, and access control.
 
+## Demo
+
+<img src='https://github.com/AIApproach/Face-Recognition-System/blob/main/assets/Face%20Recognition%20System.mp4' height="126px" width="180px"> 
+
 ## Features
 
 - **Face Detection**: Uses MTCNN for accurate face localization.
