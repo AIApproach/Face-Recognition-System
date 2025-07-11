@@ -4,7 +4,9 @@ A modern, modular real-time face recognition system in Python, featuring detecti
 
 ## Demo
 
-https://github.com/AIApproach/Face-Recognition-System/blob/main/assets/Face%20Recognition%20System.mp4
+
+<video src='https://github.com/AIApproach/Face-Recognition-System/blob/main/assets/Face%20Recognition%20System.mp4' width=180/>
+
 
 ## Features
 
