@@ -85,7 +85,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Author
 
-(c) 2025 Prepared by the AI Approach Club Projects Team
+(c) 2025 Prepared by the AI Approach Club Projects Team.
+
 Implemented by Eng Tareq Al-Kushari
 
 ---
