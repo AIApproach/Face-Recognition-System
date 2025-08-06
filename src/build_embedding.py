@@ -11,7 +11,7 @@ from tensorflow.keras.preprocessing.image import img_to_array
 from align.detect_face import detect_face
 
 # Directory of labeled images
-dataset_dir = 'dataset/my_dataset/all/'
+# dataset_dir = 'dataset/my_dataset/all/'
 image_size = 160  # For FaceNet
 
 def prewhiten(x):
@@ -33,6 +33,8 @@ def prewhiten(x):
 def main(args):
     known_embeddings = []
     labels = []
+
+    dataset_dir = args.data_dir
 
     # Load the model using modern TensorFlow
     print('Loading feature extraction model')

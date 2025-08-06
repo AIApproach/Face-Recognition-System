@@ -1,4 +1,7 @@
-"""Helper for evaluation on the Labeled Faces in the Wild dataset."""
+"""
+Helper for evaluation on the Labeled Faces in the Wild dataset.
+This is the lfw.py file.
+"""
 # MIT License
 
 # Copyright (c) 2025 Tareq Al-Kushari

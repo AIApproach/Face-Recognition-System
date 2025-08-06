@@ -1,0 +1,298 @@
+dataset/faces/images_align\Abdulaziz Hawaij\IMG-20250806-WA0006.png 357 194 591 498
+dataset/faces/images_align\Abdulaziz Hawaij\IMG-20250806-WA0017.png 586 465 1236 1316
+dataset/faces/images_align\Abdulaziz Hawaij\IMG-20250806-WA0019.png 856 390 1184 822
+dataset/faces/images_align\Abdulaziz Hawaij\IMG-20250806-WA0021.png 570 1038 745 1246
+dataset/faces/images_align\Abdulaziz Hawaij\IMG-20250806-WA0022.png 1162 504 1920 1427
+dataset/faces/images_align\Abdulaziz Hawaij\IMG-20250806-WA0024.png 200 449 819 1316
+dataset/faces/images_align\Ahmed Al-Jaifi\IMG-20250806-WA0010.png 366 170 702 638
+dataset/faces/images_align\Ahmed Al-Saadeen\IMG-20250806-WA0011.png 89 319 531 903
+dataset/faces/images_align\Chandler\Chandler00001.png 25 0 227 248
+dataset/faces/images_align\Chandler\Chandler00002.png 20 0 326 378
+dataset/faces/images_align\Chandler\Chandler00003.png 11 0 192 224
+dataset/faces/images_align\Chandler\Chandler00004.png 103 0 454 468
+dataset/faces/images_align\Chandler\Chandler00005.png 13 0 314 373
+dataset/faces/images_align\Chandler\Chandler00006.png 57 0 241 256
+dataset/faces/images_align\Chandler\Chandler00007.png 47 9 481 563
+dataset/faces/images_align\Chandler\Chandler00008.png 0 0 191 282
+dataset/faces/images_align\Chandler\Chandler00009.png 0 0 269 333
+dataset/faces/images_align\Chandler\Chandler00010.png 0 0 251 327
+dataset/faces/images_align\Chandler\Chandler00011.png 53 0 265 290
+dataset/faces/images_align\Chandler\Chandler00012.png 95 0 379 416
+dataset/faces/images_align\Chandler\Chandler00013.png 31 0 289 284
+dataset/faces/images_align\Chandler\Chandler00014.png 63 0 314 322
+dataset/faces/images_align\Chandler\Chandler00015.png 0 0 253 319
+dataset/faces/images_align\Chandler\Chandler00016.png 10 0 200 228
+dataset/faces/images_align\Chandler\Chandler00017.png 53 0 284 311
+dataset/faces/images_align\Chandler\Chandler00018.png 0 0 94 109
+dataset/faces/images_align\Chandler\Chandler00019.png 10 0 292 349
+dataset/faces/images_align\Chandler\Chandler00020.png 17 0 290 339
+dataset/faces/images_align\Chandler\Chandler00021.png 17 0 210 244
+dataset/faces/images_align\Chandler\Chandler00022.png 50 0 355 366
+dataset/faces/images_align\Chandler\Chandler00023.png 16 0 142 142
+dataset/faces/images_align\Chandler\Chandler00024.png 0 0 205 278
+dataset/faces/images_align\Chandler\Chandler00025.png 0 0 193 288
+dataset/faces/images_align\Chandler\Chandler00026.png 49 0 277 292
+dataset/faces/images_align\Chandler\Chandler00027.png 39 0 311 332
+dataset/faces/images_align\Chandler\Chandler00028.png 31 0 256 292
+dataset/faces/images_align\Chandler\Chandler00029.png 31 0 186 192
+dataset/faces/images_align\Chandler\Chandler00030.png 9 0 222 230
+dataset/faces/images_align\Chandler\Chandler00031.png 0 0 75 73
+dataset/faces/images_align\Chandler\Chandler00032.png 0 0 100 108
+dataset/faces/images_align\Chandler\Chandler00033.png 0 0 94 104
+dataset/faces/images_align\Chandler\Chandler00034.png 0 0 109 125
+dataset/faces/images_align\Chandler\Chandler00035.png 0 0 73 81
+dataset/faces/images_align\Chandler\Chandler00036.png 0 0 87 104
+dataset/faces/images_align\Chandler\Chandler00037.png 9 0 111 118
+dataset/faces/images_align\Chandler\Chandler00038.png 12 0 127 134
+dataset/faces/images_align\Chandler\Chandler00039.png 0 0 85 94
+dataset/faces/images_align\Chandler\Chandler00040.png 0 0 112 137
+dataset/faces/images_align\Chandler\Chandler00041.png 69 30 464 582
+dataset/faces/images_align\Hussam Al-Maamari\IMG-20250806-WA0005.png 227 82 395 305
+dataset/faces/images_align\Joey\Joey00001.png 1 12 254 329
+dataset/faces/images_align\Joey\Joey00002.png 61 0 312 356
+dataset/faces/images_align\Joey\Joey00003.png 41 0 239 259
+dataset/faces/images_align\Joey\Joey00004.png 177 0 681 761
+dataset/faces/images_align\Joey\Joey00005.png 63 0 314 350
+dataset/faces/images_align\Joey\Joey00006.png 0 0 312 428
+dataset/faces/images_align\Joey\Joey00007.png 0 0 177 184
+dataset/faces/images_align\Joey\Joey00008.png 0 0 242 328
+dataset/faces/images_align\Joey\Joey00009.png 9 0 204 212
+dataset/faces/images_align\Joey\Joey00010.png 46 0 435 511
+dataset/faces/images_align\Joey\Joey00011.png 0 0 307 421
+dataset/faces/images_align\Joey\Joey00012.png 0 0 153 190
+dataset/faces/images_align\Joey\Joey00013.png 16 7 257 312
+dataset/faces/images_align\Joey\Joey00014.png 16 0 170 172
+dataset/faces/images_align\Joey\Joey00015.png 0 0 214 253
+dataset/faces/images_align\Joey\Joey00016.png 157 0 634 688
+dataset/faces/images_align\Joey\Joey00017.png 8 0 470 534
+dataset/faces/images_align\Joey\Joey00018.png 0 0 302 395
+dataset/faces/images_align\Joey\Joey00019.png 0 0 136 139
+dataset/faces/images_align\Joey\Joey00020.png 0 0 225 312
+dataset/faces/images_align\Joey\Joey00021.png 29 0 328 338
+dataset/faces/images_align\Joey\Joey00022.png 0 0 215 276
+dataset/faces/images_align\Joey\Joey00023.png 0 0 297 442
+dataset/faces/images_align\Joey\Joey00024.png 18 0 180 194
+dataset/faces/images_align\Joey\Joey00025.png 21 0 222 214
+dataset/faces/images_align\Joey\Joey00026.png 71 0 302 284
+dataset/faces/images_align\Joey\Joey00027.png 108 0 486 454
+dataset/faces/images_align\Joey\Joey00028.png 19 0 372 404
+dataset/faces/images_align\Joey\Joey00029.png 37 0 340 346
+dataset/faces/images_align\Joey\Joey00030.png 2 0 131 140
+dataset/faces/images_align\Joey\Joey00031.png 32 15 254 236
+dataset/faces/images_align\Joey\Joey00032.png 8 0 190 198
+dataset/faces/images_align\Joey\Joey00033.png 11 0 225 263
+dataset/faces/images_align\Joey\Joey00034.png 0 0 90 99
+dataset/faces/images_align\Joey\Joey00035.png 0 0 217 270
+dataset/faces/images_align\Joey\Joey00036.png 0 0 165 170
+dataset/faces/images_align\Joey\Joey00037.png 0 0 136 146
+dataset/faces/images_align\Joey\Joey00038.png 49 0 333 366
+dataset/faces/images_align\Joey\Joey00039.png 6 0 107 120
+dataset/faces/images_align\Joey\Joey00040.png 48 0 327 350
+dataset/faces/images_align\Joey\Joey00041.png 0 0 271 355
+dataset/faces/images_align\Joey\Joey00042.png 0 0 230 266
+dataset/faces/images_align\Joey\Joey00043.png 0 0 157 168
+dataset/faces/images_align\Joey\Joey00044.png 29 0 208 210
+dataset/faces/images_align\Monica\Monica00001.png 128 0 490 501
+dataset/faces/images_align\Monica\Monica00002.png 0 0 148 184
+dataset/faces/images_align\Monica\Monica00003.png 0 0 240 334
+dataset/faces/images_align\Monica\Monica00004.png 7 6 480 605
+dataset/faces/images_align\Monica\Monica00005.png 0 0 349 483
+dataset/faces/images_align\Monica\Monica00006.png 0 0 173 261
+dataset/faces/images_align\Monica\Monica00007.png 0 0 200 295
+dataset/faces/images_align\Monica\Monica00008.png 0 0 167 190
+dataset/faces/images_align\Monica\Monica00009.png 12 11 218 284
+dataset/faces/images_align\Monica\Monica00010.png 0 0 158 208
+dataset/faces/images_align\Monica\Monica00011.png 2 0 203 230
+dataset/faces/images_align\Monica\Monica00012.png 0 0 353 448
+dataset/faces/images_align\Monica\Monica00013.png 4 0 478 612
+dataset/faces/images_align\Monica\Monica00014.png 0 0 232 274
+dataset/faces/images_align\Monica\Monica00015.png 0 0 285 362
+dataset/faces/images_align\Monica\Monica00016.png 0 0 369 498
+dataset/faces/images_align\Monica\Monica00017.png 12 0 356 416
+dataset/faces/images_align\Monica\Monica00018.png 0 0 278 345
+dataset/faces/images_align\Monica\Monica00019.png 7 0 262 318
+dataset/faces/images_align\Monica\Monica00020.png 0 0 250 314
+dataset/faces/images_align\Monica\Monica00021.png 0 0 192 242
+dataset/faces/images_align\Monica\Monica00022.png 0 0 334 446
+dataset/faces/images_align\Monica\Monica00023.png 0 0 212 255
+dataset/faces/images_align\Monica\Monica00024.png 0 0 182 230
+dataset/faces/images_align\Monica\Monica00025.png 0 0 128 174
+dataset/faces/images_align\Monica\Monica00026.png 0 0 191 234
+dataset/faces/images_align\Monica\Monica00027.png 0 0 177 265
+dataset/faces/images_align\Monica\Monica00028.png 0 0 66 77
+dataset/faces/images_align\Monica\Monica00029.png 11 7 262 336
+dataset/faces/images_align\Monica\Monica00030.png 0 0 118 147
+dataset/faces/images_align\Monica\Monica00031.png 0 0 143 170
+dataset/faces/images_align\Monica\Monica00032.png 0 0 133 171
+dataset/faces/images_align\Monica\Monica00033.png 0 0 189 274
+dataset/faces/images_align\Monica\Monica00034.png 0 0 96 118
+dataset/faces/images_align\Monica\Monica00035.png 0 0 77 90
+dataset/faces/images_align\Monica\Monica00036.png 0 0 200 280
+dataset/faces/images_align\Monica\Monica00037.png 0 0 81 91
+dataset/faces/images_align\Monica\Monica00038.png 0 0 222 272
+dataset/faces/images_align\Monica\Monica00039.png 3 0 297 370
+dataset/faces/images_align\Monica\Monica00040.png 0 0 71 86
+dataset/faces/images_align\Monica\Monica00041.png 0 0 116 134
+dataset/faces/images_align\Omeir Al-Baadani\IMG-20250806-WA0008.png 182 46 316 214
+dataset/faces/images_align\Omeir Al-Baadani\IMG-20250806-WA0009.png 229 108 398 333
+dataset/faces/images_align\Omeir Al-Baadani\IMG-20250806-WA0014.png 715 133 1105 651
+dataset/faces/images_align\Phoebe\Phoebe00001.png 0 0 174 212
+dataset/faces/images_align\Phoebe\Phoebe00002.png 0 0 219 302
+dataset/faces/images_align\Phoebe\Phoebe00003.png 0 0 83 113
+dataset/faces/images_align\Phoebe\Phoebe00004.png 1 0 184 229
+dataset/faces/images_align\Phoebe\Phoebe00005.png 0 0 41 48
+dataset/faces/images_align\Phoebe\Phoebe00006.png 0 0 145 188
+dataset/faces/images_align\Phoebe\Phoebe00007.png 0 0 160 226
+dataset/faces/images_align\Phoebe\Phoebe00008.png 0 0 66 81
+dataset/faces/images_align\Phoebe\Phoebe00009.png 0 0 65 102
+dataset/faces/images_align\Phoebe\Phoebe00010.png 0 0 86 100
+dataset/faces/images_align\Phoebe\Phoebe00011.png 0 0 84 97
+dataset/faces/images_align\Phoebe\Phoebe00012.png 0 0 107 141
+dataset/faces/images_align\Phoebe\Phoebe00013.png 0 0 110 143
+dataset/faces/images_align\Phoebe\Phoebe00014.png 2 0 164 208
+dataset/faces/images_align\Phoebe\Phoebe00015.png 0 0 206 278
+dataset/faces/images_align\Phoebe\Phoebe00016.png 1 0 174 228
+dataset/faces/images_align\Phoebe\Phoebe00017.png 0 0 69 82
+dataset/faces/images_align\Phoebe\Phoebe00018.png 0 0 107 144
+dataset/faces/images_align\Phoebe\Phoebe00019.png 0 0 95 113
+dataset/faces/images_align\Phoebe\Phoebe00020.png 0 0 189 245
+dataset/faces/images_align\Phoebe\Phoebe00021.png 0 0 240 295
+dataset/faces/images_align\Phoebe\Phoebe00022.png 0 0 225 283
+dataset/faces/images_align\Phoebe\Phoebe00023.png 0 0 123 168
+dataset/faces/images_align\Phoebe\Phoebe00024.png 5 0 233 337
+dataset/faces/images_align\Phoebe\Phoebe00025.png 0 0 93 134
+dataset/faces/images_align\Phoebe\Phoebe00026.png 0 0 247 301
+dataset/faces/images_align\Phoebe\Phoebe00027.png 0 0 143 155
+dataset/faces/images_align\Phoebe\Phoebe00028.png 0 0 146 206
+dataset/faces/images_align\Phoebe\Phoebe00029.png 0 0 108 136
+dataset/faces/images_align\Phoebe\Phoebe00030.png 0 0 211 262
+dataset/faces/images_align\Phoebe\Phoebe00031.png 0 2 137 182
+dataset/faces/images_align\Phoebe\Phoebe00032.png 0 0 153 217
+dataset/faces/images_align\Phoebe\Phoebe00033.png 0 0 134 170
+dataset/faces/images_align\Phoebe\Phoebe00034.png 0 0 148 193
+dataset/faces/images_align\Phoebe\Phoebe00035.png 4 3 193 265
+dataset/faces/images_align\Phoebe\Phoebe00036.png 0 0 148 197
+dataset/faces/images_align\Phoebe\Phoebe00037.png 0 0 149 196
+dataset/faces/images_align\Phoebe\Phoebe00038.png 0 0 179 257
+dataset/faces/images_align\Phoebe\Phoebe00039.png 0 0 121 142
+dataset/faces/images_align\Phoebe\Phoebe00040.png 0 0 144 200
+dataset/faces/images_align\Rachel\Rachel00001.png 15 0 325 425
+dataset/faces/images_align\Rachel\Rachel00002.png 0 0 240 324
+dataset/faces/images_align\Rachel\Rachel00003.png 6 0 270 398
+dataset/faces/images_align\Rachel\Rachel00004.png 5 0 170 264
+dataset/faces/images_align\Rachel\Rachel00005.png 25 9 324 435
+dataset/faces/images_align\Rachel\Rachel00006.png 15 0 284 381
+dataset/faces/images_align\Rachel\Rachel00007.png 0 0 269 346
+dataset/faces/images_align\Rachel\Rachel00008.png 1 3 258 317
+dataset/faces/images_align\Rachel\Rachel00009.png 0 0 100 124
+dataset/faces/images_align\Rachel\Rachel00010.png 0 0 69 106
+dataset/faces/images_align\Rachel\Rachel00011.png 0 0 57 84
+dataset/faces/images_align\Rachel\Rachel00012.png 58 53 558 737
+dataset/faces/images_align\Rachel\Rachel00013.png 0 0 68 87
+dataset/faces/images_align\Rachel\Rachel00014.png 0 0 58 72
+dataset/faces/images_align\Rachel\Rachel00015.png 0 0 167 221
+dataset/faces/images_align\Rachel\Rachel00016.png 0 0 69 83
+dataset/faces/images_align\Rachel\Rachel00017.png 0 0 170 217
+dataset/faces/images_align\Rachel\Rachel00018.png 0 0 68 83
+dataset/faces/images_align\Rachel\Rachel00019.png 0 0 68 91
+dataset/faces/images_align\Rachel\Rachel00020.png 0 0 107 146
+dataset/faces/images_align\Rachel\Rachel00021.png 0 0 76 93
+dataset/faces/images_align\Rachel\Rachel00022.png 17 9 449 577
+dataset/faces/images_align\Rachel\Rachel00023.png 0 0 129 187
+dataset/faces/images_align\Rachel\Rachel00024.png 0 0 51 66
+dataset/faces/images_align\Rachel\Rachel00025.png 0 0 108 158
+dataset/faces/images_align\Rachel\Rachel00026.png 0 0 122 156
+dataset/faces/images_align\Rachel\Rachel00027.png 0 0 207 318
+dataset/faces/images_align\Rachel\Rachel00028.png 0 0 140 176
+dataset/faces/images_align\Rachel\Rachel00029.png 0 0 93 143
+dataset/faces/images_align\Rachel\Rachel00030.png 0 0 152 233
+dataset/faces/images_align\Rachel\Rachel00031.png 0 0 235 364
+dataset/faces/images_align\Rachel\Rachel00032.png 0 0 179 221
+dataset/faces/images_align\Rachel\Rachel00033.png 0 0 155 231
+dataset/faces/images_align\Rachel\Rachel00034.png 0 0 107 119
+dataset/faces/images_align\Rachel\Rachel00035.png 0 0 287 365
+dataset/faces/images_align\Rachel\Rachel00036.png 0 0 194 271
+dataset/faces/images_align\Rachel\Rachel00037.png 0 0 135 170
+dataset/faces/images_align\Rachel\Rachel00038.png 0 0 108 134
+dataset/faces/images_align\Rachel\Rachel00039.png 0 0 215 255
+dataset/faces/images_align\Ross\Ross00001.png 0 0 81 96
+dataset/faces/images_align\Ross\Ross00002.png 0 0 190 255
+dataset/faces/images_align\Ross\Ross00003.png 0 0 279 340
+dataset/faces/images_align\Ross\Ross00004.png 0 0 105 121
+dataset/faces/images_align\Ross\Ross00005.png 0 0 173 196
+dataset/faces/images_align\Ross\Ross00006.png 0 0 168 195
+dataset/faces/images_align\Ross\Ross00007.png 0 0 131 151
+dataset/faces/images_align\Ross\Ross00008.png 0 0 229 299
+dataset/faces/images_align\Ross\Ross00009.png 0 0 85 100
+dataset/faces/images_align\Ross\Ross00010.png 0 0 143 172
+dataset/faces/images_align\Ross\Ross00011.png 0 0 219 308
+dataset/faces/images_align\Ross\Ross00012.png 0 0 88 100
+dataset/faces/images_align\Ross\Ross00013.png 0 0 53 59
+dataset/faces/images_align\Ross\Ross00014.png 37 0 221 269
+dataset/faces/images_align\Ross\Ross00015.png 5 0 187 229
+dataset/faces/images_align\Ross\Ross00016.png 0 0 67 71
+dataset/faces/images_align\Ross\Ross00017.png 19 0 215 251
+dataset/faces/images_align\Ross\Ross00018.png 0 0 56 65
+dataset/faces/images_align\Ross\Ross00019.png 11 0 162 190
+dataset/faces/images_align\Ross\Ross00020.png 0 0 117 145
+dataset/faces/images_align\Ross\Ross00021.png 0 0 79 86
+dataset/faces/images_align\Ross\Ross00022.png 0 0 117 138
+dataset/faces/images_align\Ross\Ross00023.png 0 0 234 303
+dataset/faces/images_align\Ross\Ross00024.png 0 0 162 228
+dataset/faces/images_align\Ross\Ross00025.png 0 0 145 201
+dataset/faces/images_align\Ross\Ross00026.png 0 0 113 158
+dataset/faces/images_align\Ross\Ross00027.png 0 0 159 204
+dataset/faces/images_align\Ross\Ross00028.png 0 22 104 153
+dataset/faces/images_align\Ross\Ross00029.png 0 0 95 131
+dataset/faces/images_align\Ross\Ross00030.png 0 0 165 218
+dataset/faces/images_align\Ross\Ross00031.png 0 0 119 156
+dataset/faces/images_align\Ross\Ross00032.png 0 0 144 209
+dataset/faces/images_align\Ross\Ross00033.png 0 0 157 210
+dataset/faces/images_align\Ross\Ross00034.png 0 0 93 143
+dataset/faces/images_align\Ross\Ross00035.png 0 0 120 170
+dataset/faces/images_align\Ross\Ross00036.png 0 0 116 160
+dataset/faces/images_align\Ross\Ross00037.png 0 0 122 157
+dataset/faces/images_align\Ross\Ross00038.png 0 0 173 224
+dataset/faces/images_align\Ross\Ross00039.png 0 0 166 221
+dataset/faces/images_align\Ross\Ross00040.png
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00001.png 8 0 271 343
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00002.png 56 239 491 828
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00003.png 47 157 391 604
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00004.png 125 158 461 668
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00005.png 2 22 310 424
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00006.png 81 228 565 845
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00007.png 15 183 451 762
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00008.png 50 230 519 822
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00009.png 55 222 440 710
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00010.png 73 232 553 857
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00011.png 258 446 1095 1576
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00012.png 155 294 646 932
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00013.png 20 64 247 352
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00014.png 83 208 492 728
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00015.png 17 56 198 283
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00016.png 86 249 545 852
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00017.png 49 114 317 483
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00018.png 34 106 320 482
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00019.png 24 88 245 364
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00020.png 27 90 274 414
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00021.png 0 242 552 972
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00022.png 108 260 472 717
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00023.png 52 190 446 702
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00024.png 37 150 308 516
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00025.png 11 78 205 330
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00026.png 76 198 529 764
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00027.png 18 71 248 363
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00028.png 44 121 445 645
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00029.png 49 106 454 602
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00030.png 43 135 435 603
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00031.png 44 93 369 496
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00032.png 31 57 351 485
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00033.png 25 87 293 447
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00034.png 91 171 771 994
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00035.png 34 184 698 1007
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00036.png 93 210 710 953
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00037.png 32 90 330 479
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00038.png 57 186 545 837
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00039.png 0 21 83 138
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00040.png 5 16 91 138
+dataset/faces/images_align\Tareq Al-Kushari\Tareq00041.png 18 49 226 299

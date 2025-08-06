@@ -1,4 +1,5 @@
 """
+This is the detect_face.py file.
 TensorFlow implementation of MTCNN face detection/alignment algorithm.
 Updated for TensorFlow 2.x+
 """

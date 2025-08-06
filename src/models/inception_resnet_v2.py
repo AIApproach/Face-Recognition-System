@@ -1,3 +1,7 @@
+"""
+This is the inception_resnet_v2.py file.
+"""
+
 import tensorflow as tf
 from tensorflow.keras import layers, Model
 

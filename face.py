@@ -1,4 +1,5 @@
 """
+This is the face.py file.
 Face detection and recognition module.
 Updated for TensorFlow 2.x+ with fixed dimension handling
 """
