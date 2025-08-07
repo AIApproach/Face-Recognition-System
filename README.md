@@ -4,9 +4,7 @@ A modern, modular real-time face recognition system in Python, featuring detecti
 
 ## Demo
 
-![Watch the video](assets/Face_Recognition_System.gif)
-
-![Screenshot](assets/friends1.jpg)
+![Screenshot](https://github.com/AIApproach/Face-Recognition-System/blob/main/assets/AIApproach.jpg)
 
 ## Features
 
@@ -45,6 +43,8 @@ A modern, modular real-time face recognition system in Python, featuring detecti
    Place your pre-trained FaceNet model in `models/facenet/`.
 
 ### Usage
+
+![Watch the video](https://github.com/AIApproach/Face-Recognition-System/blob/main/assets/Face_Recognition_System.gif)
 
 #### Real-Time Face Recognition
 
